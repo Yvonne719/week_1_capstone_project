@@ -16,3 +16,5 @@ easier for an outsider to quickly understand all changes you've made without hav
 ##What did I learn in Week 1?
 Before I joined this program, I was using making commits to my GitHub without really knowing what rules I had to follow to write good commit messages but over the past week, I've understood what it means
 to write a good commit message and also the right workflow to go through from checking version after installation and configuring identity to committing project files with the right messages. 
+
+This is an edit.
